@@ -6,7 +6,7 @@ The goal in the game is to
 
 # Gameplay
 
-<img src="--" width="auto">
+<img src="https://github.com/muratkrdl/RiskyWallz/blob/main/Gameplay.gif" width="auto">
 
 ## Authors
 
