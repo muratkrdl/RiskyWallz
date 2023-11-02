@@ -8,7 +8,7 @@ As you begin the game, your character will automatically move forward, and it's 
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/RiskyWallz/blob/main/Gameplay.gif" width="500">
+<img src="https://github.com/muratkrdl/RiskyWallz/blob/main/Gameplay.gif" width="450">
 
 ## Authors
 
